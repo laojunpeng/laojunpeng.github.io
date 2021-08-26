@@ -1,0 +1,1 @@
+import{o as n,c as s,a}from"./app.5f046f61.js";const t='{"title":"React 为什么要搞一个 Hooks？","description":"","frontmatter":{"title":"React 为什么要搞一个 Hooks？"},"relativePath":"react/hooks.md","lastUpdated":1629947910846}',o={},p=[a('',21)];o.render=function(a,t,o,e,c,r){return n(),s("div",null,p)};export{t as __pageData,o as default};
